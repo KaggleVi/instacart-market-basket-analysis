@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/Instacart Market Basket Analysis",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
